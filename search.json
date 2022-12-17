@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This is the index page of the blog. I guess I’ll probably have to make this pretty eventually!"
+  },
+  {
+    "objectID": "2022satdec17.html",
+    "href": "2022satdec17.html",
+    "title": "Making a Blog",
+    "section": "",
+    "text": "Text in this colour are the actions I took \n\nSo I made this file in a folder on my computer, I named it “makingABlog.ipynb”.\nSo I made this file in a folder on my computer, I then named it “001_2022SatDec17.ipynb” as the name controls the order of the blogs in the sidebar. The heading controls the name of each blog which shows in the sidebar.\nThis will become the first entry into my blog online. Each entry will be a jupyter notebook embedded into a HTML template.\nI will describe how I made the HTML template.\nI am following Bailey’s blog https://baileyandrew.github.io/Blog/2022tuedec13.html.\nI am writing things down as I go.\nThe point of this blog is - to practice public writing - to practice science communication - to summarise technical work I did - to summarise How To’s such as this where I do something once which is not trivial and I want to record how for other people and for future reference. - for my CV - as a record of papers I’ve read - as a log of my thoughts - to inspire others to do the same and to create some sort of small, shallow community online of good intentioned people.\nOld, delete: I create an empty github repo online, with no readme file, named blog or something.\nI’m created this notebook file you’re reading, by creating a text file and renaming it, including changing the file extension.\nTo open and read this .ipynb file I am editing it in Visual Studio Code. A lot of people use Jupyter Notebook.\nI am also not using conda, I am just using the singular original python installation, and nothing more, with pip installs.\nI then forked Bailey’s blog: https://github.com/BaileyAndrew/Blog to my github, creating a new repo. \nI opened github desktop which is connected to my online github account, and chose to clone the online blog repo to a local folder on my computer. Here I can edit the blog files. \nI closed github desktop, and can edit the files in VS code now. I realise I don’t need Github Desktop and can just zip download the github repo manually, and then edit the notebook files in VS code straight away, and then use my VS code to push the changes back up to the online github repo.\nI could do another blog on setting up Github in VS code.\nI then deleted all the current blog .ipynb files in the Blog folder locally, and inserted this file into the nbs folder. Here in VS code I now stage, commit and push the changes to the online repo. \nnb. I should edit the main index file which is the home page.\n I went into the online github repo and the files had been updated. This .ipynb making a blog notebook was there. I then went into settings and on the side found Pages, and chose the branch to make the website active. I chose the main default branch. I refresh the page, the website is live."
+  }
+]
